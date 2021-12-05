@@ -1,0 +1,16 @@
+{
+  "beforeTwoStepTaskTrial": [
+    {
+      "text": "Vielen Dank! Es folgt die zweite Aufgabe."
+    },
+    {
+      "text": "Bei dieser Aufgabe soll gelernt werden, welche Bilder mit welchen Belohnungen assoziiert sind. Die Aufgabe hat 2 Stufen, die durch verschiedene Farben gekennzeichnet sind. Im folgenden Beispiel führt die linke Auswahl meist (in 70% der Fälle) zur blauen Stufe und nur manchmal (in 30% der Fälle) zur roten Stufe. Dagegen führt die Auswahl des rechten Bildes meist (in 70% der Fälle) zur roten Stufe und nur manchmal zur blauen (in 30% der Fälle). Diese Wahrscheinlichkeiten sind fix und ändern sich nicht. Ihre Aufgabe ist es herauszufinden, welches Bild zu welcher zweiten Stufe führt."
+    },
+    {
+      "text": "Wenn Sie die 2. Stufe erreicht haben, wählen Sie erneut eines der Bilder aus. Jedes der Bilder in Stufe 2 ist mit einer gewissen Belohnung in Form von Punkten assoziiert. Die Belohnungshöhe, der jeweilige Punktwert, ändert sich langsam während des Experiments. Ihre Aufgabe ist es, so viele Punkte wie möglich zu erspielen. Im folgenden Beispiel wurde das linke Bild mit 13 Punkten und das rechte Bild mit 73 Punkten belohnt. Nachdem Sie in der 2. Stufe eine Belohnung erhalten haben, werden Sie zurück auf Stufe 1 gesetzt und eine neue Runde beginnt."
+    },
+    {
+      "text": "Nutzen Sie die Pfeiltasten (< >) um Bilder auszuwählen. Für jede Auswahl haben Sie maximal 2 Sekunden Zeit, achten Sie also darauf zügig zu antworten! Sind Sie zu langsam erhalten Sie keine Punkte und beginnen automatisch wieder in Stufe 1. Denken Sie daran, jedes Bild in Stufe 1 führt meistens, in 70% der Fälle zu einer bestimmten 2. Stufe. Diese Wahrscheinlichkeit ändert sich nicht und es ist Ihre Aufgabe herauszufinden, welches Bild zu welcher 2. Stufe führt. Im Gegensatz dazu, verändern sich in Stufe 2 die Belohnungshöhen langsam. Versuchen Sie auf dem Laufenden zu bleiben, welches Bild in Stufe 2 zu einem bestimmten Zeitpunkt des Experiments hoch belohnt wird. Versuchen Sie also, so viele Punkte wie möglich zu erspielen. Die Bilder im Experiment sind andere als im Übungsdurchlauf, die Aufgabe ist aber dieselbe wie zuvor in der Übung. Um mit den Beispielaufgaben zu beginnen, klicken Sie nun auf „Start“."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "beforeTwoStepTaskTrial": [
+    {
+      "text": "Thank you very much. The second task follows."
+    },
+    {
+      "text": "This task is to learn which images are associated with which rewards. The task has 2 levels, which are marked by different colors. In the following example, the left selection leads to the light blue level in 70% of the cases. This probability is fixed and does not change. On the other hand, the selection from the right selection leads to the light red level in 70% of the cases. This probability is fixed and does not change. Your task is to find out which image leads to which 2nd level."
+    },
+    {
+      "text": "When you have reached the 2nd level, select one of the images again. Each of the images in Step 2 is associated with a certain reward in the form of points. The reward level, the point value, changes slowly during the experiment. Your task is to earn as many points as possible. Press the Arrow buttons to select the image you think will be most rewarded. In the following example the left image was rewarded with 13 points and the right image with 73 points."
+    },
+    {
+      "text": "After you have received a reward in the 2nd level, you will be returned back to level 1 and a new round will begin. Remember, each image in level 1 leads to a certain level 2 in 70% of the cases. This probability does not change and it is your task to find out which picture leads to which 2nd level. In contrast, in level 2 the reward levels change slowly. Try to keep track of which image in level 2 is highly rewarded at a certain point in the experiment.So try to earn as many points as possible. The pictures in the trial round are different than in the exercise, but the task is the same as before in the exercise. To start with the sample tasks, click on \"Start\"."
+    }
+  ]
+}

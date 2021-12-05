@@ -1,0 +1,74 @@
+{
+    "delayDiscountingInputRows": [
+        {
+            "counter": 1,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 68.6,
+            "option2Time": 1
+        },
+        {
+            "counter": 2,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 25.5,
+            "option2Time": 30
+        },
+        {
+            "counter": 3,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 57.7,
+            "option2Time": 1
+        },
+        {
+            "counter": 4,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 55.6,
+            "option2Time": 14
+        },
+        {
+            "counter": 5,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 59.9,
+            "option2Time": 61
+        },
+        {
+            "counter": 6,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 24.9,
+            "option2Time": 20
+        },
+        {
+            "counter": 7,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 32.9,
+            "option2Time": 61
+        },
+        {
+            "counter": 8,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 65.7,
+            "option2Time": 50
+        },
+        {
+            "counter": 9,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 35.9,
+            "option2Time": 36
+        },
+        {
+            "counter": 10,
+            "option1Euro": 20.0,
+            "option1Time": 0,
+            "option2Euro": 44.9,
+            "option2Time": 61
+        }
+    ]
+}
